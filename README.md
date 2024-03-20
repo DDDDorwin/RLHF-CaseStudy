@@ -9,6 +9,12 @@ Welcome to  discuss and exchange ideas with me:)
 - [Aligning ML Models with Human Feedback](https://github.com/HumanSignal/RLHF/tree/master)
   - Label Studio
 
+- Summarize-from-feedback
+  - [paper](https://arxiv.org/abs/2009.01325)
+  - [Github](https://github.com/openai/summarize-from-feedback/tree/master)
+  - [wandb](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2)
+  - Open AI
+  - TL;DR dataset; text summarization; fine-tune
 
 
 
