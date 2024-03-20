@@ -7,7 +7,7 @@ Welcome to  discuss and exchange ideas with me:)
 
 ## list
 - [Aligning ML Models with Human Feedback](https://github.com/HumanSignal/RLHF/tree/master)
-- Label Studio
+  - Label Studio
 
 
 
