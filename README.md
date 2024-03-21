@@ -1,8 +1,9 @@
 # RLHF-CaseStudy
-This is a collection of materials related to Reinforcement Learning with Human Feedback (RLHF). And the repository will be continuously updated until I finish my thesis.
+This is a collection of materials related to Reinforcement Learning with Human Feedback (RLHF). And the repository will be continuously updated(probably until I finish my thesis:) )
 
 Welcome to  discuss and exchange ideas with me:)
 
+# Quick intro of RLHF
 <img width="963" alt="download" src="https://github.com/DDDDorwin/RLHF-CaseStudy/assets/89888473/4a2ff1da-ec86-4d30-9ffd-8a9bdbf79063">
 
 ## list
@@ -13,7 +14,7 @@ Welcome to  discuss and exchange ideas with me:)
 
 - Learning to Summarize with trlX
   - Paper: [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
-  - Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
+    - Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
   - Github: [official](https://github.com/openai/summarize-from-feedback/tree/master)
   - Wandb: [Implementing RLHF: Learning to Summarize with trlX](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2)
   - Wandb: [DRAFT1 Learning to Summarize with trlX](https://wandb.ai/carperai/summarize_RLHF/reports/-DRAFT1Learning-to-Summarize-with-trlX--VmlldzozMjgwNTkx)
