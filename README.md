@@ -7,23 +7,23 @@ Welcome to  discuss and exchange ideas with me:)
 
 ## list
 - Aligning ML Models with Human Feedback
-  -  Github[official](https://github.com/HumanSignal/RLHF/tree/master)
+  - Github: [official](https://github.com/HumanSignal/RLHF/tree/master)
   - Label Studio
-  - GPT2; munally lebel; trlx
+  - Keywords: GPT2; munally lebel; trlx
 
 - Learning to Summarize with trlX
-  - paper[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+  - Paper: [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
   - Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
-  - Github[official](https://github.com/openai/summarize-from-feedback/tree/master)
-  - Wandb[Implementing RLHF: Learning to Summarize with trlX](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2)
-  - Wandb[DRAFT1 Learning to Summarize with trlX](https://wandb.ai/carperai/summarize_RLHF/reports/-DRAFT1Learning-to-Summarize-with-trlX--VmlldzozMjgwNTkx)
+  - Github: [official](https://github.com/openai/summarize-from-feedback/tree/master)
+  - Wandb: [Implementing RLHF: Learning to Summarize with trlX](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2)
+  - Wandb: [DRAFT1 Learning to Summarize with trlX](https://wandb.ai/carperai/summarize_RLHF/reports/-DRAFT1Learning-to-Summarize-with-trlX--VmlldzozMjgwNTkx)
   - Open AI
-  - TL;DR dataset; text summarization; fine-tune
+  - Keywords: TL;DR dataset; text summarization; fine-tune
 
 - Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU
-  -  Github[official](https://github.com/huggingface/blog/blob/main/trl-peft.md)
-  -  Huggingface [Blog](https://huggingface.co/blog/trl-peft)
+  - Github: [official](https://github.com/huggingface/blog/blob/main/trl-peft.md)
+  - Huggingface: [Blog](https://huggingface.co/blog/trl-peft)
   - Hugging Face
-  - LLM; trl; imdb dataset
+  - Keywords: LLM; trl; imdb dataset
 
 
