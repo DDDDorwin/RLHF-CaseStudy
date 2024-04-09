@@ -10,7 +10,7 @@ Welcome to  discuss and exchange ideas with me:)
 - Aligning ML Models with Human Feedback
   - Github: [official](https://github.com/HumanSignal/RLHF/tree/master)
   - Label Studio
-  - Keywords: GPT2; munally lebel; trlx
+  - Keywords: GPT2; munally lebel; trlx; custom dataset
 
 - Learning to Summarize with trlX
   - Paper: [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
